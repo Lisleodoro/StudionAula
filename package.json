@@ -1,0 +1,14 @@
+{
+  "name": "studionaula",
+  "version": "1.0.0",
+  "description": "teste # teste",
+  "main": "src/Index.html",
+  "scripts": {
+    "start": "npx live-server src/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
